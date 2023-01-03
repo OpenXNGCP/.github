@@ -1,4 +1,4 @@
-## Hi there 👋
+## OpenX is on a mission to build and deliver Next Generation Computing Platforms with Artificial Intelligence, eXtended Reality, Sustainability and Decentralization at its foundation.
 
 <!--
 
